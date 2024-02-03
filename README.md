@@ -11,8 +11,16 @@ travail ».
 • Ce travail a une pondération de 20 points et comptera pour 10 % de la note finale du cours.
 • Le plagiat est formellement interdit et tout étudiant qui y est impliqué est passible de renvoi
 de l’ISTEAH (http://www.isteah.edu.ht/pdf/code-de-conduite.pdf).
-ÉTUDIANT 1 Samuel Jonathan JOSEPH
+
+
+
+ ÉTUDIANT 1 Samuel Jonathan JOSEPH
 ÉTUDIANT 2 Esther DESRAVINES
+
+
+
+
+
  Création d'une Page de Connexion statique utilisant HTML et CSS
 Veuillez lire attentivement toutes les instructions avant de commencer le devoir.
 Objectifs :
